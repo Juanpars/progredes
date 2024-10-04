@@ -1,7 +1,7 @@
 '''
 Nombre: Juan Pablo Ramirez Salazar
 Descripcion: Lab 4.3.1.7
-Fecha: 02/10/2024
+Fecha: 03/10/2024
 '''
 def is_year_leap(year):
     if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
